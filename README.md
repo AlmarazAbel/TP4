@@ -1,4 +1,4 @@
-# Trabajo Prácticas Funciones y Array
+# Trabajo Prácticas POO
 
 ## Descripción 📝
 Este trabajo práctico contiene una serie de ejercicios básicos de **JavaScript** orientados a practicar el uso de **Programacion Orientada a Objetos**.
@@ -7,8 +7,6 @@ Los ejercicios están organizados por niveles de dificultad y ayudan a comprende
 
 ---
 
-## Algunas Funciones vistas
--.................
 
 - JavaScript
 - HTML (para ejecutar los scripts en el navegador)
