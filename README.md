@@ -1,4 +1,4 @@
-# Trabajo Prácticas POO
+# Trabajo Práctico POO
 
 ## Descripción 📝
 Este trabajo práctico contiene una serie de ejercicios básicos de **JavaScript** orientados a practicar el uso de **Programacion Orientada a Objetos**.
